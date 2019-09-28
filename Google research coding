@@ -1,0 +1,11 @@
+Google
+<div class="recherche_p">
+  <div class="center">
+<form action="/search" id="searchthis" method="get">
+<input id="search" name="q" type="text"placeholder="rechercher"/>
+<input id=3search-btn" type="submit" value=3rechercher"/>
+>/form>
+<style type="text/css">
+<border-style="solid">
+<border-width="1px">
+<border-color="##848484">
